@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumeMonty
-- 👀 I’m interested in C, Database Management 
-- 🌱 I’m currently learning SQL, Advanced Concepts Of C
-- 💞️ I’m looking to collaborate on Software Development
+- 👀 I’m interested in C, Web Development 
+- 🌱 I’m currently learning Advanced Concepts Of C, Web Development
+- 💞️ I’m looking to collaborate on Software And Web Development
 - 📫 How to reach me Email: sumeshmohantypersonal@gmail.com
 
 <!---
