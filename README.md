@@ -5,6 +5,8 @@
 - 📫 How to reach me Email: sumeshmohantypersonal@gmail.com
 
 [![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty)](https://github.com/SumeMonty/github-readme-stats)
+
+![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty&show_icons=true&theme=merko)
 <!---
 SumeMonty/SumeMonty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
