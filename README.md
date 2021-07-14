@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software And Web Development
 - 📫 How to reach me Email: sumeshmohantypersonal@gmail.com
 
-[![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty)](https://github.com/SumeMonty/github-readme-stats)
+<!-- [![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty)](https://github.com/SumeMonty/github-readme-stats) -->
 
 ![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty&show_icons=true&theme=merko)
 <!---
