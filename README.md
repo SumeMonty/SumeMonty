@@ -41,9 +41,9 @@
 <!--   <a href="https://www.gtk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>  -->
 </p>
 
+<br><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumemonty&show_icons=true&locale=en&layout=compact" alt="sumemonty" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumemonty&show_icons=true&locale=en&layout=compact" alt="sumemonty" /></p>
-<br><br><br><br><br><br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumemonty&show_icons=true&locale=en" alt="sumemonty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumemonty&" alt="sumemonty" /></p> -->
@@ -62,7 +62,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumeMonty&layout=compact)](https://github.com/SumeMonty/github-readme-stats) -->
 
 <!-- ![counter](https://komarev.com/ghpvc/?username=SumeMonty&label=Profile%20views&color=0e75b6&style=flat) -->
-
 ![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty&count_private=true&show_icons=true&theme=react)
 
 [![Sume's github stats](https://github-readme-streak-stats.herokuapp.com/?user=SumeMonty&)](https://github.com/SumeMonty/github-readme-stats)
@@ -70,6 +69,6 @@
 SumeMonty/SumeMonty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
+
  
 <!--  https://www.vectorlogo.zone/logos/ -->
