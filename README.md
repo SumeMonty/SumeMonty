@@ -42,7 +42,7 @@
 </p>
 
 <br><br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumemonty&show_icons=true&locale=en&layout=compact" alt="sumemonty" /></p>
+<p><img src="https://github-readme-stats-sumemonty.vercel.app/api/top-langs?username=sumemonty&show_icons=true&locale=en&layout=compact" alt="sumemonty" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumemonty&show_icons=true&locale=en" alt="sumemonty" /></p>
 
