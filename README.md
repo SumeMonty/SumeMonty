@@ -50,7 +50,7 @@
 <p><img src="https://github-readme-stats-sumemonty.vercel.app/api/top-langs?username=sumemonty&show_icons=true&locale=en&layout=compact&hide_border=true" alt="sumemonty" /></p>
 
 ---
-![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty&count_private=true&show_icons=true&hide_border=true)
+![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty&count_private=true&show_icons=true&theme=react&hide_border=true)
 
 ---
 [![Sume's github stats](https://github-readme-streak-stats.herokuapp.com/?user=SumeMonty&hide_border=true)](https://github.com/SumeMonty/github-readme-stats)
