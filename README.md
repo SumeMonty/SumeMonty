@@ -48,7 +48,8 @@
 
 
 ---
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumemonty&show_icons=true&locale=en&layout=compact&hide_border=true" alt="sumemonty" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumemonty&show_icons=true&langs_count=8&locale=en&layout=compact&hide_border=true" alt="sumemonty" /></p>
 
 ---
 ![Sume's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeMonty&count_private=true&show_icons=true&theme=react&hide_border=true)
