@@ -21,11 +21,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/sumesh-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumesh mohanty" height="65" width="65" style="margin-right:10px;" title="LinkedIn"/></a>
-  <a href="https://sumeshmohantyarticles.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="SumeshMohanty Articles" height="60" width="60" style="margin-right:10px;" title="Blogger"/></a>
-  <a href="https://www.hackerrank.com/sumemonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="HackerRank"/></a>
-  <a href="https://www.codechef.com/users/sumemonty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="Code Chef"/></a>
-  <a href="https://stackoverflow.com/users/14785275/sumemonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="Stack Overflow"/></a>
+  <a href="https://linkedin.com/in/sumesh-mohanty" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumesh mohanty" height="65" width="65" style="margin-right:10px;" title="LinkedIn"/></a>
+  <a href="https://sumeshmohantyarticles.blogspot.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="SumeshMohanty Articles" height="60" width="60" style="margin-right:10px;" title="Blogger"/></a>
+  <a href="https://www.hackerrank.com/sumemonty" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/sumemonty" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="Code Chef"/></a>
+  <a href="https://stackoverflow.com/users/14785275/sumemonty" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="Stack Overflow"/></a>
   
 </p>
 
