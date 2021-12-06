@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript Weather App**
 
-- 🌱 I’m currently learning **Javascript and Data Structures In C**
+- 🌱 I’m currently learning **Android Development With Kotlin**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
@@ -21,10 +21,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/sumesh-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumesh mohanty" height="65" width="65" title="LinkedIn"/></a>
-  <a href="https://stackoverflow.com/users/14785275/sumemonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumemonty" height="65" width="65" title="Stack Overflow"/></a>
-  <a href="https://www.codechef.com/users/sumemonty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumemonty" height="65" width="65" title="Code Chef"/></a>
-  <a href="https://www.hackerrank.com/sumemonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumemonty" height="65" width="65" title="HackerRank"/></a>
+  <a href="https://linkedin.com/in/sumesh-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumesh mohanty" height="65" width="65" style="margin-right:10px;" title="LinkedIn"/></a>
+  <a href="https://sumeshmohantyarticles.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="SumeshMohanty Articles" height="60" width="60" style="margin-right:10px;" title="Blogger"/></a>
+  <a href="https://www.hackerrank.com/sumemonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/sumemonty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="Code Chef"/></a>
+  <a href="https://stackoverflow.com/users/14785275/sumemonty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumemonty" height="65" width="65" style="margin-right:10px;" title="Stack Overflow"/></a>
+  
 </p>
 
 ---
@@ -42,6 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="65" title="Linux"/> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" width="65" height="65" title="Bash Shell"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" title="" width="100" height="65" title="MySql"/> 
+    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="mysql" title="" width="80" height="45" title="PHP"/> 
     
 <!--   <a href="https://www.gtk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>  -->
 </p>
