@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumemonty" alt="sumemonty" /></a> </p> -->
 
-- 🔭 I’m currently working on **JavaScript Weather App**
+- 🔭 I’m currently working on **Android**
 
 - 🌱 I’m currently learning **Android Development With Kotlin**
 
