@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development, Maths, C Programming**
 
-- 📫 How to reach me **sumeshmohanty2020@gmail.com**
+- 📫 How to reach me **sumemonty@gmail.com**
 
 ---
 
