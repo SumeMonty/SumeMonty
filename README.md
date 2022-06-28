@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Android**
 
-- 🌱 I’m currently learning **Android Development With Kotlin**
+- 🌱 I’m currently learning **Advance Java && Front End Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumeMonty](https://github.com/SumeMonty)
 
-- 💬 Ask me about **Web Development, Maths, C Programming**
+- 💬 Ask me about **Web Development, Maths**
 
 - 📫 How to reach me **sumemonty@gmail.com**
 
