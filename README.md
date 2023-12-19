@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumemonty" alt="sumemonty" /></a> </p> -->
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Advance Java && Front End Development**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumeMonty](https://github.com/SumeMonty)
 
